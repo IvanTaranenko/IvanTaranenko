@@ -13,7 +13,12 @@
 - ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<p align="center">
+<a href = "mailto:wali6985@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
+<a href = https://github.com/SABERGLOW><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
+<a href = https://www.linkedin.com/in/sardarwaliullah/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
+<a href = https://www.facebook.com/sardarwaliullah/><img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'></a>
+<a href = https://www.instagram.com/sardarwaliullah/><img src='https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png' alt='instagram' height='40'></a>
 
 <br />
 
