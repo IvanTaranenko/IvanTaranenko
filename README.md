@@ -35,8 +35,11 @@
 <br />
 ---
 
+
 <details>
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/IvanTaranenko?cardType=github&theme=tokyonight)](https://git.io/awesome-stats-card)
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api?username=IvanTaranenko&theme=highcontrast&show_icons=true&count_private=true" />
 
 </details>
 
