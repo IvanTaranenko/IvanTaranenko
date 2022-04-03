@@ -39,14 +39,14 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://awesome-github-stats.azurewebsites.net/user-stats/IvanTaranenko?cardType=github&theme=tokyonight" />
+<img align="left" alt="Ivan's GitHub Top Languages" src="https://awesome-github-stats.azurewebsites.net/user-stats/IvanTaranenko?cardType=github&theme=tokyonight" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://awesome-github-stats.azurewebsites.net/user-stats/IvanTaranenko?cardType=github&theme=tokyonight)](https://git.io/awesome-stats-card" />
+<img align="left" alt="Ivan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api?username=IvanTaranenko&theme=nightowl&show_icons=true" />
 
 </details>
 
