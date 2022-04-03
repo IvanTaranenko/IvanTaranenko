@@ -1,6 +1,6 @@
 ### Hello World, I'm Ivan  👋
 
- <img align="right" alt="GIF" src="ewew.jpg" width="500" height="320" />
+ <img align="right" alt="GIF" src="aboutme.gif" width="500" height="320" />
 
 
 ## I'm a Wife, Mother, Developer, Creator, and Mentor!!
@@ -33,7 +33,7 @@
 
 <br />
 <br />
----
+
 
 
 <details>
