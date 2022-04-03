@@ -1,6 +1,6 @@
 ### Hello World, I'm Ivan  👋
 
- <img align="right" alt="GIF" src="config.jpg" width="500" height="320" />
+ <img align="right" alt="GIF" src="meme2.jpg" width="500" height="320" />
 
 
 ## I'm a Wife, Mother, Developer, Creator, and Mentor!!
