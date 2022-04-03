@@ -46,7 +46,7 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanTaranenko" />
+<img align="left" alt="Ivan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanTaranenko&hide=javascript,css,scss,html&theme=tokyonight" />
 </details>
 
 [website]: https://holistic-developer.com/
