@@ -38,7 +38,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/IvanTaranenko?cardType=github&theme=tokyonight)](https://git.io/awesome-stats-card" />
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight">    <img  alt="IvanTaranenko's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/IvanTaranenko?cardType=github&theme=tokyonight" />  </a>
 
 </details>
 
