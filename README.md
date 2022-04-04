@@ -4,7 +4,7 @@
 <a href="https://github.com/IvanTaranenko/IvanTaranenko"><img align="right" width="350" height="263" src="ewew.png"></a>
   - 👨‍💻 I'm a Software Developer at <a href = "https://www.aimprosoft.com/"> Aimprosoft</a>. [Back-end ]
   - 👨‍🏫 I’m looking to collaborate on open source.
-  - 🎓 I'm studying Computer Science Engineering at BME, Budapest. I'm expecting to graduate in 2023.
+  - 🎓 I'm studying Php,Laravelm,Vuejs
   - 🎯 I'm currently learning how to build awesome web applications with Laravel.
   - 📧 You can reach me at:vanokalipsi@gmail.com
 
@@ -70,11 +70,11 @@
 ## 🚀 My Projects:
 <p align="center">
   <a href="https://github.com/IvanTaranenko/currency-converter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=SparMePlease&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanTaranenko&repo=currency-converter_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
   <a href="https://github.com/IvanTaranenko/social-networkr">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=E-Butler&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanTaranenko&repo=social-networkr&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
   <a href="https://github.com/IvanTaranenko/vue-calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABERGLOW&repo=AsteroidMiners&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanTaranenko&repo=vue-calculator&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
   
   ---
 
