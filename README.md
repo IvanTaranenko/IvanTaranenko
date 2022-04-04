@@ -1,7 +1,7 @@
 
 
 ## 📚 About Me:
-<a href="https://github.com/IvanTaranenko/IvanTaranenko"><img align="right" width="350" height="263" src="art.png"></a>
+<a href="https://github.com/IvanTaranenko/IvanTaranenko"><img align="right" width="350" height="263" src="art.jpg"></a>
   - 👨‍💻 I'm a Software Developer at <a href = "https://www.aimprosoft.com/"> Aimprosoft</a>. [Back-end ]
   - 👨‍🏫 I’m looking to collaborate on open source.
   - 🎓 I'm studying Php,Laravelm,Vuejs
@@ -70,7 +70,8 @@
 ## 🚀 My Projects:
 <p align="center">
   <a href="https://github.com/IvanTaranenko/currency-converter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanTaranenko&repo=currency-converter_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanTaranenko&repo=currency-converter&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" />
+  </a>
   <a href="https://github.com/IvanTaranenko/social-networkr">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanTaranenko&repo=social-networkr&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
   <a href="https://github.com/IvanTaranenko/vue-calculator">
