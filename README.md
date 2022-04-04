@@ -1,8 +1,8 @@
 
 
 ## 📚 About Me:
-<a href="https://github.com/IvanTaranenko/IvanTaranenko"><img align="right" width="500" height="320" src="art.jpg"></a>
-  - 👨‍💻 I'm a Software Developer at <a href = "https://www.aimprosoft.com/"> Aimprosoft</a>. [Back-end ]
+<a href="https://github.com/IvanTaranenko/IvanTaranenko"><img align="right" width="500" height="320" src="me.jpg"></a>
+  - 👨‍💻 I'm a Software Developer at <a href = "https://www.aimprosoft.com/"> Aimprosoft</a>. [Back-end]
   - 👨‍🏫 I’m looking to collaborate on open source.
   - 🎓 I'm studying Php,Laravel,Vuejs
   - 🎯 I'm currently learning how to build
