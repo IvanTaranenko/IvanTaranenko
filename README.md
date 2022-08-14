@@ -68,7 +68,7 @@
   
 <p>&nbsp;</p>
 
-## 🚀 My Projects:
+<!-- ## 🚀 My Projects:
 <p align="center">
   <a href="https://github.com/IvanTaranenko/currency-converter">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanTaranenko&repo=currency-converter&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" />
@@ -76,7 +76,7 @@
   <a href="https://github.com/IvanTaranenko/social-networkr">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanTaranenko&repo=social-network&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
   <a href="https://github.com/IvanTaranenko/vue-calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanTaranenko&repo=vue-calculator&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanTaranenko&repo=vue-calculator&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a> -->
   
   ---
 
