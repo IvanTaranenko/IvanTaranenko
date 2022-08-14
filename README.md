@@ -53,11 +53,11 @@
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanTaranenko&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=020024&text_color=ffffff&bg_color=1,355C7D,6C5B7B,C06C84" /></a>
   
   ---
-  
+<!--   
 <p align="center">
 <a href="https://github.com/IvanTaranenko/">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=IvanTaranenko&theme=dracula&hide_border=true&background=355C7D00&stroke=FF6E96&dates=DDDDDD" /></a>
-  
+   -->
   ---
   
 <!--- TROPHIES
